@@ -1,7 +1,7 @@
 
 ---
 title: White House Report Says Blocking Sunlight Can Prevent Global Warming 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 09:07:00 
 post_excerpt: The White House is suggesting the “possible deployment” of radical climate change techniques like artificially blocking incoming sunlight as part of its climate change agenda despite expert warnings that such initiatives can have devastating impacts on the planet. 
 featured_image: _images/GettyImages-1230822361_web-1200x750.jpg 

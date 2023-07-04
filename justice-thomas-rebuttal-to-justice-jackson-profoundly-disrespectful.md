@@ -1,7 +1,7 @@
 
 ---
 title: Justice Thomas Rebuttal to Justice Jackson &#39;Profoundly Disrespectful&#39; 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 12:07:00 
 post_excerpt: Representative Alexandria Ocasio-Cortez (D-NY) said Sunday on CNN&#39;s &quot;State of the Union&quot; that Supreme Court Justice Clarence Thomas was &quot;profoundly disrespectful&quot; when disagreeing with fellow Justice Ketanji Brown Jackson. | Clips 
 featured_image: _images/alexandria-ocasio-cortez-640x335.jpeg 

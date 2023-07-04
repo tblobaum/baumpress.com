@@ -1,7 +1,7 @@
 
 ---
 title: US Ambassador to Russia Meets Jailed Wall Street Journal Reporter Gershkovich 
-post_status: published
+post_status: publish
 post_date: 2023-07-03 20:07:00 
 post_excerpt: The United States ambassador to Russia, Lynne Tracy, was able to visit detained Wall Street Journal reporter Evan ... 
 featured_image: _images/id5373084-UKRAINE-CRISIS-RUSSIA-WSJ-1200x886.jpg 

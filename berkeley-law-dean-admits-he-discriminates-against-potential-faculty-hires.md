@@ -1,7 +1,7 @@
 
 ---
 title: &#39; Berkeley Law Dean Admits He Discriminates Against Potential Faculty Hires 
-post_status: draft
+post_status: publish
 post_date: 2023-07-01 11:07:00 
 post_excerpt: Video footage appears to show Berkeley Law Dean Erwin Chemerinsky telling a class that he discriminates against potential faculty hires to boost racial diversity using what he called &quot;unstated affirmative action.&quot; The Dean tells his audience, &quot;If ever I&#39;m deposed, I&#39;m going to deny I said this to you.&quot; 
 featured_image: _images/Berkeley-Law-Dean-Erwin-Chemerinsky-640x335.jpg 

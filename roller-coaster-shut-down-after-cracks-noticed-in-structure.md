@@ -1,7 +1,7 @@
 
 ---
 title: Roller Coaster Shut Down After Cracks Noticed in Structure 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 16:07:00 
 post_excerpt: A man noticed a massive crack in the support beam of a roller coaster at an amusement park in North Carolina while it was in operation. 
 featured_image: _images/roller-coaster-crack-640x335.jpg 

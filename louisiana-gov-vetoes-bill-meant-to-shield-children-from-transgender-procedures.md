@@ -1,7 +1,7 @@
 
 ---
 title: Louisiana Gov. Vetoes Bill Meant to Shield Children From Transgender Procedures 
-post_status: draft
+post_status: publish
 post_date: 2023-07-01 16:07:00 
 post_excerpt: Louisiana Gov. John Bel Edwards, a Democrat, has vetoed a bill that was meant to protect children from ... 
 featured_image: _images/Louisiana-Gov.-John-Bel-Edwards-2021-07-30-e1627761775372-1200x708-1200x708-1200x708.jpg 

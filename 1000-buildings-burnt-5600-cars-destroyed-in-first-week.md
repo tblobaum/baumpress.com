@@ -1,7 +1,7 @@
 
 ---
 title: 1,000 Buildings Burnt, 5,600 Cars Destroyed in First Week 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 10:07:00 
 post_excerpt: The huge extent of damage and vandalism caused in nearly a week of nightly riots in France dramatically underlined by government figures. 
 featured_image: _images/GettyImages-1374276545-e1688396240448-640x335.jpg 

@@ -1,7 +1,7 @@
 
 ---
 title: Travelers Face Canceled Flights for Fourth of July Holiday 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 11:07:00 
 post_excerpt: Storms across the country have canceled 89 flights the day before the Fourth of July holiday. 
 featured_image: _images/airport-cancellations-travel-air-flights-buttigieg-getty-640x335.jpg 

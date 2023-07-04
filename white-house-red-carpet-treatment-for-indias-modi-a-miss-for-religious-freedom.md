@@ -1,7 +1,7 @@
 
 ---
 title: White House &#39;Red Carpet&#39; Treatment for India&#39;s Modi a &#39;Miss&#39; for Religious Freedom 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 06:07:00 
 post_excerpt: President Joe Biden&#39;s warm welcome to Hindu nationalist Prime Minister Narendra Modi was a &quot;big miss&quot; for human rights, David Curry said. 
 featured_image: _images/GettyImages-1258955128-640x335.jpeg 

@@ -1,7 +1,7 @@
 
 ---
 title: FAA Approves World&#39;s First Electric Flying Car for Testing 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 14:07:00 
 post_excerpt: A California based company, Alef Aeronautics, is building a flying electric car that now has approval for testing. 
 featured_image: _images/344665415_1261591111385155_3657268826051375048_n-640x335.jpg 

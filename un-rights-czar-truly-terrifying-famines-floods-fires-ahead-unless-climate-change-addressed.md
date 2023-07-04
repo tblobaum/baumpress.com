@@ -1,7 +1,7 @@
 
 ---
 title: U.N. Rights Czar -- &#39;Truly Terrifying&#39; Famines, Floods, Fires, Ahead Unless &#39;Climate Change&#39; Addressed 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 04:07:00 
 post_excerpt: Volker Turk, the U.N. High Commissioner for Human Rights, declared Monday the planet is &quot;[...] burning. It&#39;s melting. It&#39;s flooding. It&#39;s depleting. It&#39;s drying. It&#39;s dying,&quot; as he evoked a &quot;dystopian future&quot; for all unless &quot;climate change&quot; is addressed. 
 featured_image: _images/Volker-Turk-warns-640x335.jpg 

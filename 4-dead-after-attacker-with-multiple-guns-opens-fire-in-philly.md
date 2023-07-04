@@ -1,7 +1,7 @@
 
 ---
 title: 4 Dead After Attacker with Multiple Guns Opens Fire in Philly 
-post_status: published
+post_status: publish
 post_date: 2023-07-03 22:07:00 
 post_excerpt: Four were killed and four others injured after an alleged attacker with multiple guns opened fire in Philadelphia, Pennsylvania, Monday. 
 featured_image: _images/crime-scene-police-cars-lights-tape-dark-file-getty-640x335.jpg 

@@ -1,7 +1,7 @@
 
 ---
 title: Anti-Netanyahu Protesters Target Fourth of July Celebration in Jerusalem 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 06:07:00 
 post_excerpt: Opponents of Netanyahu&#39;s judicial reforms are targeting the U.S. embassy&#39;s Fourth of July celebrations, as well as the main port and airport. 
 featured_image: _images/Netanyahu-American-flag-Getty-640x335.jpg 

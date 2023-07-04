@@ -1,7 +1,7 @@
 
 ---
 title: Congress Didn&#39;t Do Its Job and Expected SCOTUS to Approve Executive Overreach 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 05:07:00 
 post_excerpt: On Monday&#39;s broadcast of CNBC&#39;s &quot;Squawk Box,&quot; CNBC Contributor and former Sen. Heidi Heitkamp (D-ND) responded to Democrats complaining about the Supreme | Clips 
 featured_image: _images/Senate-Minority-Leader-Chuck-Schumer-Trump-SOTU-Feb519-AP.jpg 

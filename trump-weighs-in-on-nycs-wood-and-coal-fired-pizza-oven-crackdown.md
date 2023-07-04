@@ -1,7 +1,7 @@
 
 ---
 title: Trump Weighs in on NYC&#39;s Wood- and Coal-Fired Pizza Oven Crackdown 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 08:07:00 
 post_excerpt: Former president and Republican presidential candidate Donald Trump reacted to the proposed emission-cutting rules targeting New York City&#39;s ... 
 featured_image: _images/id5371416-GettyImages-1379003728-1200x800.jpg 

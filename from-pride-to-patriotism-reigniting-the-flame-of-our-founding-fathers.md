@@ -1,7 +1,7 @@
 
 ---
 title: From Pride to Patriotism — Reigniting the Flame of Our Founding Fathers 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 09:07:00 
 post_excerpt: We, the people, continue to hold dear the ideals of faith, education, liberty, and just governance that have guided us from the beginning. 
 featured_image: _images/little-girl-july-4th-july-4-fourth-of-july-independence-day-fireworks-getty-640x335.jpg 

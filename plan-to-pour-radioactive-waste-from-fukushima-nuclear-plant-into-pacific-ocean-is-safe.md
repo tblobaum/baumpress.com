@@ -1,7 +1,7 @@
 
 ---
 title: Plan to Pour Radioactive Waste From Fukushima Nuclear Plant Into Pacific Ocean Is Safe 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 03:07:00 
 post_excerpt: The International Atomic Energy Agency (IAEA) has concluded that Japan&#39;s plans to release radioactive water from the damaged ... 
 featured_image: _images/Fukushima-water-1200x800.jpg 

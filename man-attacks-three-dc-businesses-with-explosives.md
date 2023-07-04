@@ -1,7 +1,7 @@
 
 ---
 title: Man Attacks Three D.C. Businesses with Explosives 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 15:07:00 
 post_excerpt: Authorities are looking for the person who allegedly detonated or threw explosive devices at businesses in Washington, DC, on Sunday. 
 featured_image: _images/GettyImages-1258493412-640x335.jpg 

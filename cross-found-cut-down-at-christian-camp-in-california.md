@@ -1,7 +1,7 @@
 
 ---
 title: Cross Found Cut Down at Christian Camp in California 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 06:07:00 
 post_excerpt: A cross that had been dedicated on Father&#39;s Day last month was found cut down last Thursday at a Christian camp in Orange County, California. 
 featured_image: _images/Screen-Shot-2023-07-04-at-6.09.17-AM-640x335.png 

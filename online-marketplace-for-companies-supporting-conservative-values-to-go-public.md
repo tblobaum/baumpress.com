@@ -1,7 +1,7 @@
 
 ---
 title: Online Marketplace for Companies Supporting Conservative Values to Go Public 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 05:07:00 
 post_excerpt: A “parallel” online marketplace aiming to provide a solution for Americans who want to shop with businesses aligning with conservative values is looking to go public. 
 featured_image: _images/id5294980-BudLightCan-1200x900.jpg 

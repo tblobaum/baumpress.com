@@ -1,7 +1,7 @@
 
 ---
 title: YouTube Blacklists Roseanne Barr and Theo Von for Discussing Censorship 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 13:07:00 
 post_excerpt: A podcast hosted by comedian Theo Von and featuring Roseanne Barr was blacklisted by YouTube after the pair engaged in a sarcastic discussion about the misinformation policies of social media platforms. 
 featured_image: _images/roseannebarr1-640x335.jpg 

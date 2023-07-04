@@ -1,7 +1,7 @@
 
 ---
 title: Local Media Reports Vigilante Group Zip-Tying France Rioters 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 02:07:00 
 post_excerpt: Masked gang of young men tying up rioters and putting out fires discussed in French papers, but the mayor denies vigilante gang exists at all. 
 featured_image: _images/GettyImages-1380847381-e1688456927744-640x335.jpg 

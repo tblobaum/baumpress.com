@@ -1,7 +1,7 @@
 
 ---
 title: &#39;I Absolutely Would Sign&#39; 15-Week National Abortion Ban 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 10:07:00 
 post_excerpt: Former South Carolina Gov. Nikki Haley (R), a 2024 GOP candidate, said on this week&#39;s broadcast of &quot;Fox News Sunday&quot; that as president, she would sign a federal abortion ban after 15 weeks. | Clips 
 featured_image: _images/AP23144621086079-640x335.jpg 

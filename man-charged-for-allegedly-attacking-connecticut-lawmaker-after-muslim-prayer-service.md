@@ -1,7 +1,7 @@
 
 ---
 title: Man Charged for Allegedly Attacking Connecticut Lawmaker After Muslim Prayer Service 
-post_status: published
+post_status: publish
 post_date: 2023-07-03 22:07:00 
 post_excerpt: HARTFORD, Conn.—A Connecticut state lawmaker was attacked as she left a Muslim prayer service, and a fellow worshiper ... 
 featured_image: _images/id5366585-Andrey-Desmond-1-1200x675.jpg 

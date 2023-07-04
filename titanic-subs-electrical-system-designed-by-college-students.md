@@ -1,7 +1,7 @@
 
 ---
 title: Titanic Sub&#39;s Electrical System Designed by College Students 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 16:07:00 
 post_excerpt: College interns designed the electrical system of the Titan submarine that imploded last month, killing all five passengers, a report says. 
 featured_image: _images/Titan-tean-with-WSU-interns-1-640x335.jpg 

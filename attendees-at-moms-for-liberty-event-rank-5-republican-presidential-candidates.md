@@ -1,7 +1,7 @@
 
 ---
 title: Attendees at Moms for Liberty Event Rank 5 Republican Presidential Candidates 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 09:07:00 
 post_excerpt: Ranking candidates 1-5, showed three favorites and one least liked candidate at Moms for Liberty national summit in Philadelphia. 
 featured_image: _images/id5370307-Moms-with-signs--1200x925.jpg 

@@ -1,7 +1,7 @@
 
 ---
 title: State Senate Republicans Try to Force Vote on Election Chief’s Appointment 
-post_status: draft
+post_status: publish
 post_date: 2023-07-02 16:07:00 
 post_excerpt: News Analysis While Democrats were still celebrating the success of their parliamentary move to keep embattled Wisconsin Elections ... 
 featured_image: _images/meagan-wolfe-1200x675.jpg 

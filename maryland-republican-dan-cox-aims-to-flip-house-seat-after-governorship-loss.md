@@ -1,7 +1,7 @@
 
 ---
 title: Maryland Republican Dan Cox Aims to Flip House Seat After Governorship Loss 
-post_status: draft
+post_status: publish
 post_date: 2023-07-03 14:07:00 
 post_excerpt: Former Maryland gubernatorial candidate Dan Cox will seek to flip his state’s 6th Congressional District seat from blue to ... 
 featured_image: _images/id5372455-dan-cox-1-1200x800-1200x800.jpeg 

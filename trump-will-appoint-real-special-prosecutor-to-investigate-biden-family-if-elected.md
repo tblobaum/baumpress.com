@@ -1,7 +1,7 @@
 
 ---
 title: Trump Will Appoint &#39;Real Special Prosecutor&#39; to Investigate Biden Family if Elected 
-post_status: draft
+post_status: publish
 post_date: 2023-07-01 15:07:00 
 post_excerpt: Donald Trump slammed Joe Biden in Pickens, South Carolina, where reportedly tens of thousands came out to see him speak Saturday. 
 featured_image: _images/Donald-Trump-in-Pickens-640x335.jpg 

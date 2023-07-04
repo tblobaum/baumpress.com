@@ -1,7 +1,7 @@
 
 ---
 title: Presidential Candidate Tiger King Speaks from Jail 
-post_status: published
+post_status: publish
 post_date: 2023-07-03 23:07:00 
 post_excerpt: Joe Exotic — AKA Joseph Maldonado-Passage, AKA Tiger King — is challenging Joe Biden in the Democratic Party presidential primary from jail. 
 featured_image: _images/tigerking1-640x335.jpg 

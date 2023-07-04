@@ -1,7 +1,7 @@
 
 ---
 title: The Hidden Side of &#39;Gender-Affirming Care&#39; Driving Transgender Mental Health Problems and Suicide 
-post_status: published
+post_status: publish
 post_date: 2023-07-04 01:07:00 
 post_excerpt: Wearing a black cowboy hat, a red “America First” T-shirt, and a silver cross, you would never know ... 
 featured_image: _images/id5368618-shutterstock_1598586106-1-e1688176204221-1200x720.jpg 

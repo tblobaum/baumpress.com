@@ -1,7 +1,7 @@
 
 ---
 title: Big Government, Industrial Policy and Centralized Control 
-post_status: published
+post_status: publish
 post_date: 2023-07-03 21:07:00 
 post_excerpt: With an eye toward the upcoming presidential elections, the White House has launched a new public relations campaign ... 
 featured_image: _images/id5362431-Biden_Chicago-1200x800.jpg 
