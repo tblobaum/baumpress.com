@@ -1,0 +1,21 @@
+
+---
+title: "How C-SPAN got more fun" 
+post_status: publish
+post_date: 2023-07-05 06:07:00 
+post_excerpt: "After the speaker’s race was hailed as a cinematic tour de force, House leadership opened more of the floor to cameras."
+featured_image: _images/f66edcf3909788bd75dcfdd4c9fc500fc4ad1cdb-1280x854.png 
+taxonomy:
+    publisher:
+        - semafor
+    category:
+        - world 
+    post_tag:
+    author:
+        - https:&#x2F;&#x2F;www.semafor.com&#x2F;author&#x2F;kadia-goba
+custom_fields:
+    source: 
+---
+How C-SPAN got more funSign up for Semafor Principals: An insider’s guide to power in D. C. Read it now.Speaker Kevin McCarthy has expanded the use of cameras in the House chamber after his own contested speaker’s race turned into a riveting reality TV show.Viewers now get a broader glimpse of Congress in action. There’s an expanded view of lawmakers roaming the floor during votes, where you may see footage of Rep. Grace Meng, D-N.Y., running into the chamber minutes before a vote closes. Or you could have witnessed the exchange between Majority Leader Steve Scalise, R- La., and members of the House Freedom Caucus just before they tanked the rule on gas stoves. And viewers can sometimes get seconds-long shots of the electronic vote board on the balcony above the rostrum, a spectacle previously only available to members, guests, and reporters in the room.“As part of the re-opening of the Capitol under Speaker McCarthy, the public has been able to have greater access and visibility to the entire legislative process, including new angles during regular business in the chamber,” a spokesperson for McCarthy told Semafor.There are nine different cameras inside the House chamber operated by the House Recording Studio, under the purview of the office of the Chief Administrative Officer, an appointed position determined by a majority vote at the start of every Congress. Outside of special events like the State of the Union or joint addresses, the only cameras covering the House are run by the government. C-SPAN is given access to the government-manned cameras to broadcast nationally.The 15-vote speaker’s race offered a five-day bonanza of unprecedented video footage. C-SPAN’s camera (which was on pool duty for the broader media) shot freely throughout the chamber, capturing part of that near-confrontation between Reps. Matt Gaetz, R-Fla. and Mike Rogers, R-Ala. At the time, House members-elect had not been sworn in nor had they voted on a speaker, meaning there were no rules or decisions in place governing how the cameras operated. The moment prompted calls for more camera access from the public and members, including the newly minted C-SPAN star Gaetz, who introduced an amendment requiring the speaker to allow C-SPAN permanent access on the House floor.While C-SPAN has more variety in its on-air footage now, they still aren’t allowed to bring their own cameras into the chamber, which they did during the speaker’s race.The independently-operated network has written letters to the speaker asking that he revisit the rules to allow them, and other independent accredited journalists, to cover key legislative sessions themselves in addition to using the House-provided feeds. But nothing has changed outside of the new perspectives from the House Recording Studio, Richard Weinstein, the Vice President of Content for C-SPAN, told Semafor.“We too noticed those changes and I welcome those changes,” Weinstein said. “I think that it&#39;s an improvement over what had existed previously in terms of the more static shots of the dais and the podium.”Viewers can also expect new virtual reality footage from the latest joint address with India’s Prime Minister Narendra Modi. The House used two VR cameras and will feature never-before-seen video of an “up-close” view of McCarthy gaveling in at the rostrum, a balcony view, and a roaming shot of Modi walking down the center aisle in a soon-to-be-released video.The speaker launched the VR project for the first time during South Korean President Yoon Suk Yeol’s joint address, where a single 360-degree VR camera was used to capture unique points of view of the event.
+
+Sign up for Semafor Principals: An insider’s guide to power in D. C. Read it now. 
