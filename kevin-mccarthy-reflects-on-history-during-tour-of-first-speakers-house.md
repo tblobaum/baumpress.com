@@ -3,7 +3,7 @@
 title: Kevin McCarthy reflects on history during tour of first speaker&#39;s house 
 post_status: published
 post_date: 2023-07-02 19:07:00 
-post_excerpt: EXCLUSIVE: House Speaker Kevin McCarthy, R-Calif., spoke about the importance of his position in U.S. history and how he looks to history for guidance. 
+post_excerpt: "EXCLUSIVE: House Speaker Kevin McCarthy, R-Calif., spoke about the importance of his position in U.S. history and how he looks to history for guidance. "
 featured_image: _images/McCarthy-history.jpg 
 taxonomy:
     publisher:
