@@ -17,15 +17,6 @@ taxonomy:
         - France
         - French Jews
         - Listen now
-        - Full Coverage
-What Matters Now
-        - See All
-        - Full Coverage
-Liveblog
-        - Full Coverage
-ToI Original Video
-        - Full Coverage
-Israeli judicial overhaul
     author:
         - By Cnaan Liphshiz
 custom_fields:
