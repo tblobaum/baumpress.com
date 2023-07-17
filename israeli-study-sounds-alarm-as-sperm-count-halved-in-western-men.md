@@ -16,16 +16,6 @@ taxonomy:
         - Hebrew University of Jerusalem
         - public health
         - Hadassah Braun School of Public Health and Community Medicine
-        - Listen now
-        - Full Coverage
-What Matters Now
-        - See All
-        - Full Coverage
-Liveblog
-        - Full Coverage
-ToI Original Video
-        - Full Coverage
-Israeli judicial overhaul
     author:
         - By Shoshanna Solomon
 custom_fields:
